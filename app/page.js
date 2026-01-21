@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import Image from "next/image";
 import Banner from "./components/home/Banner";
 import Feature from "./components/home/Feature";
@@ -6,6 +8,7 @@ import ShopByCategory from "./components/home/ShopByCategory";
 import WhyChooseUs from "./components/home/WhyChooseUs";
 import BestSellerProduct from "./components/home/BestSellertProduct";
 import Blog from "./components/home/Blog";
+
 
 export default function Home() {
   return (
