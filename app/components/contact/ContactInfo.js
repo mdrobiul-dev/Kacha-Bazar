@@ -9,7 +9,7 @@ export default function ContactInfo() {
       <div>
         <FaLocationDot className="text-primary_color text-4xl mx-auto mb-3" />
         <p className="text-gray-700 leading-relaxed">
-          Sector 10, Uttara, Dhaka 1230
+          army society, Uttara dhaka
         </p>
       </div>
 
@@ -28,7 +28,7 @@ export default function ContactInfo() {
       <div>
         <FaPhone className="text-primary_color text-4xl mx-auto mb-3" />
         <p className="text-gray-700">(+880) 1916269626</p>
-        <p className="text-gray-700">(+880) 1602938446</p>
+        <p className="text-gray-700">(+880) 1605645544</p>
       </div>
     </div>
   );
